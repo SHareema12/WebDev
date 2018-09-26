@@ -1,0 +1,16 @@
+.card img{
+    width: 100%;
+}
+
+.card .caption-full{
+    padding: 9px;
+}
+
+.deleteForm {
+    display: inline;
+}
+
+.list-group {
+    padding-top: 20px;
+}
+
